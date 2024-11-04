@@ -115,3 +115,5 @@ where Condition = true
 
 ### Conclusion:
 Payless-Superstores faces slow sales turnover which is unstable with marginal sales increase. Our recommendations focus on boosting revenue through enhanced customer satisfaction, optimized pricing strategies, and leveraging popular product and subscription type. Implementing these strategies aims to improve financial performance and ensure sustainable profitability.
+
+If you have any questions regarding this project, you can email me at juliechukwu16@gmail.com, or connect me on https://www.linkedin.com/in/juliet-ejikeme-aca
