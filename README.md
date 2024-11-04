@@ -96,7 +96,9 @@ Total Subscription Count: 131,250
 
 ### Sales Trend Analysis
 ---
-The Television Subscription Section category emerged as the leading performer in both sales and revenue generation. Within this category, the Basic subscription category stood out with impressive sales and Revenue figure of N38m. On the other hand, the Clothing Section showcased some significant sales but had a notably lower sales margin when compared to the Subscription Section. Within the Clothing category, the Shoes displayed decent sales and increased revenue. Additionally, both Premium and Standard subscription type had lower sales turnover when compared to the Basic. These observations raise concerns, suggesting potential issues with the subscription duration and the pricing strategy, especially for the premium and standard categories.
+-  The Television Subscription Section category emerged as the leading performer in both sales and revenue generation. Within this category, the Basic subscription category stood out with impressive sales and Revenue figure of N38m.
+-  On the other hand, the Clothing Section showcased some significant sales but had a notably lower sales margin when compared to the Subscription Section. Within the Clothing category, the Shoes displayed decent sales and increased revenue.
+-  Additionally, both Premium and Standard subscription type had lower sales turnover when compared to the Basic. These observations raise concerns, suggesting potential issues with the subscription duration and the pricing strategy, especially for the premium and standard categories.
 
 <img width="412" alt="image" src="https://github.com/user-attachments/assets/5f9fe740-34bb-47f3-a4ad-f311ccae165f">
 
