@@ -98,7 +98,7 @@ where Condition = true
 ### Sales Trend Analysis
 ---
 -  In the Television Subscription Section the Basic category emerged as the leading performing product in both sales and revenue generation with total revenue of N33.8m and 16,922 quantity sold thi makes the Basic subscription category to stand out with impressive sales and Revenue, this is followed by the premium and standard category with total sales revenue of N16.9m and 8,446 & 8420 quantities sold respectively. 
--  On the other hand, the Clothing Section showcased some significant sales but had a notably lower sales margin when compared to the Subscription Section. Within the Clothing category, the Shoes displayed decent sales and increased revenue
+-  On the other hand, the Clothing Section showcased some significant sales but had a notably lower sales margin when compared to the Subscription Section. Within the Clothing category, the Shoes displayed decent sales and increased revenue of N613.4k, Shirt N485.6k, Hat N316.2k, Gloves N296.9k, Jacket N206.2k and Socks N180.8k.
 -  Additionally, both Premium and Standard subscription type had lower sales turnover when compared to the Basic. These observations raise concerns, suggesting potential issues with the subscription duration and the pricing strategy, especially for the premium and standard categories.
 
 <img width="533" alt="image" src="https://github.com/user-attachments/assets/8aa177f8-d0ec-42d9-b516-9fea5a7786f4">
