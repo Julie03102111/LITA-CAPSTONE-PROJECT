@@ -77,10 +77,10 @@ where Condition = true
 
 ### Basic statistics about the dataset:
 ---
-Total Sales Clothing: N2,101,090
-Total Sales Subscription: N67,540,175.
-Total Product Count Clothing:274,179
-Total Subscription Count: 182,710
+-  Total Sales Clothing: N2,101,090
+-  Total Sales Subscription: N67,540,175.
+-  Total Product Count Clothing:274,179
+-  Total Subscription Count: 182,710
 
 ### DASHBOARD VISUALIZATION
 <img width="635" alt="image" src="https://github.com/user-attachments/assets/86218a59-1dc7-4975-8f68-1092956526d5">
@@ -89,17 +89,16 @@ Total Subscription Count: 182,710
 
 ### Sales by Region and Product:
 ---
--  In the Clothing section the South region boasted the highest revenue, with sales amounting to N4.9m which constitute 44.2% of the total sales, followed by the East region with sales of N2.5m at 23.14%, in the third position is North Region with a total sale of N2m which is 18,24% of the total sales and lastly at the bottom is the West Region with a total sale of N1.6m with 14.29%. Within the
--  Television subscription section of the superstore the South Region has the highest sales revenue with a total of N37.6m which is 25.08% of the total revenue generated followed by West Region at N37.5m at 25.02%,  East and North at N37.4m at 24.96% a& 24.94% respectively the analysis also highlighted some of top selling products which contributes to the major revenue of the company and those at the bottom line, Therefore, the company should focus on marketing efforts and optimizing inventory in those regions to further increase sales.
+-  In the Clothing section the South region boasted the highest revenue, with sales amounting to N928k which constitute 44.2% of the total sales, followed by the East region with sales of N486kat 23.14%, in the third position is North Region with a total sale of N387k which is 18,24% of the total sales and lastly at the bottom is the West Region with a total sale of N300k with 14.29%.
+-  Within the Television subscription section of the superstore the East Region has the highest sales revenue with a total of N17m which is 25.08% of the total revenue generated followed by South Region at N16.89m at 25.02%, West at N16.86m at 24.96% & North N16.82m at 24.94% respectively the analysis also highlighted some of top selling products which contributes to the major revenue of the company and those at the bottom line, Therefore, the company should focus on marketing efforts and optimizing inventory in those regions to further increase sales.
 
 <img width="497" alt="image" src="https://github.com/user-attachments/assets/40257afd-bbf4-4ba1-a82c-01469d2959fc">
 <img width="499" alt="image" src="https://github.com/user-attachments/assets/41018503-648c-4cb2-b0c6-f06ef08031ed">
 
-
 ### Sales Trend Analysis
 ---
--  The Television Subscription Section category emerged as the leading performer in both sales and revenue generation. Within this category, the Basic subscription category stood out with impressive sales and Revenue figure of N38m.
--  On the other hand, the Clothing Section showcased some significant sales but had a notably lower sales margin when compared to the Subscription Section. Within the Clothing category, the Shoes displayed decent sales and increased revenue.
+-  In the Television Subscription Section the Basic category emerged as the leading performing product in both sales and revenue generation with total revenue of N33.8m and 16,922 quantity sold thi makes the Basic subscription category to stand out with impressive sales and Revenue, this is followed by the premium and standard category with total sales revenue of N16.9m and 8,446 & 8420 quantities sold respectively. 
+-  On the other hand, the Clothing Section showcased some significant sales but had a notably lower sales margin when compared to the Subscription Section. Within the Clothing category, the Shoes displayed decent sales and increased revenue
 -  Additionally, both Premium and Standard subscription type had lower sales turnover when compared to the Basic. These observations raise concerns, suggesting potential issues with the subscription duration and the pricing strategy, especially for the premium and standard categories.
 
 <img width="533" alt="image" src="https://github.com/user-attachments/assets/8aa177f8-d0ec-42d9-b516-9fea5a7786f4">
