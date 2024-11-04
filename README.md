@@ -6,6 +6,7 @@
 Payless-Superstore is a retail outlet based in Nigeria. The superstore specializes in selling clothing for both the male and the female genders, the clothing include but not limited to items such as; hat, shirts, shoes jackets, socks etc and also another segment of the store who deals with television subscriptions. This summer, the company hired me as a Business Data Analyst at their Headquarter office located at Victoria Island Lagos. My role is analyzing the sales performance of the superstore and my goal is to help them enhance their business growth and profitability.
 
 ### Table of Content
+---
 -  [PROJECT OVERVIEW](#project-overview)
 -  [DATASET](#dataset)
 -  [Tools Used](#tools-used)
@@ -29,7 +30,6 @@ The original dataset was given containing two datasets, SalesData and CustomerDa
   1.  For Data cleaning
   2.  For Data Analysis
   3.  For Data visualization
- 
 - SQL Structure Query Language for Querying of Data [Download Here](https://drive.google.com/file/d/19o9r7MTfYD72-apw42q1FrbDLCVhy5_W/view?usp=drive_link)
 - SQL Structure Query Language [Download Here](https://drive.google.com/file/d/1YTbBCZ1RswNSX8utgmh3UnSughupBhF5/view?usp=drive_link)
 - Github for Portfolio building
@@ -102,8 +102,12 @@ The Television Subscription Section category emerged as the leading performer in
 
  <img width="499" alt="image" src="https://github.com/user-attachments/assets/29ba65ab-a8d7-4213-8ffe-0ef29e27eb29">
 
-Recommendations
+### Recommendations
 1.	Customer Drive: To boost satisfaction and sales, enhance the shopping experience for the clothing section the company should enhance brands are in line with the fashion trend and also offer personalized promotions, loyalty rewards, and targeted marketing to further increase their engagement and spending, driving overall growth.
 2.	Sales optimization: Engage more in advertising and other sales strategies across all cities especially for those products that mark the highest revenue generation and also for those at bottom line a market survey could be carried out to get the taste preference of customers as regards to those product and possible upgrade will improve the market for consistent revenue growth. 
 3.	Region comparison: Focus on increasing sales initiatives in Regions like the West & Northern regions as these regions’ sales can still be boosted and  sales  growth increased. Implement targeted marketing campaigns and promotions tailored to local preferences to maximize sales opportunities throughout the regions.
 4.	Customer satisfaction analysis: To sustain growth and boost loyalty, focus on exceeding the expectations of customers. Consistently deliver exceptional service to foster loyalty, increase retention, and leverage positive word-of-mouth to attract new customers, strengthening our customer base and driving long-term profitability.
+
+
+### Conclusion:
+Payless-Superstores faces slow sales turnover which is unstable with marginal sales increase. Our recommendations focus on boosting revenue through enhanced customer satisfaction, optimized pricing strategies, and leveraging popular product and subscription type. Implementing these strategies aims to improve financial performance and ensure sustainable profitability.
