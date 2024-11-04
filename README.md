@@ -77,10 +77,10 @@ where Condition = true
 
 ### Basic statistics about the dataset:
 ---
-Total Sales Clothing: N67,540,175
-Total Sales Subscription: N2,101,090.
-Total Product Count Clothing:167,500
-Total Subscription Count: 131,250
+Total Sales Clothing: N2,101,090
+Total Sales Subscription: N67,540,175.
+Total Product Count Clothing:274,179
+Total Subscription Count: 182,710
 
 ### DASHBOARD VISUALIZATION
 <img width="635" alt="image" src="https://github.com/user-attachments/assets/86218a59-1dc7-4975-8f68-1092956526d5">
