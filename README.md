@@ -83,16 +83,18 @@ Total Product Count Clothing:167,500
 Total Subscription Count: 131,250
 
 ### DASHBOARD VISUALIZATION
-<img width="625" alt="image" src="https://github.com/user-attachments/assets/d1624dae-27b7-4991-8e2c-d5c140c2d557">
-<img width="633" alt="image" src="https://github.com/user-attachments/assets/7b13335d-ae6f-4f49-9985-ec419f9cfc23">
+<img width="635" alt="image" src="https://github.com/user-attachments/assets/86218a59-1dc7-4975-8f68-1092956526d5">
+<img width="629" alt="image" src="https://github.com/user-attachments/assets/8acb7876-12f9-43d2-8077-06238d7a4f42">
+
 
 ### Sales by Region and Product:
 ---
 -  In the Clothing section the South region boasted the highest revenue, with sales amounting to N4.9m which constitute 44.2% of the total sales, followed by the East region with sales of N2.5m at 23.14%, in the third position is North Region with a total sale of N2m which is 18,24% of the total sales and lastly at the bottom is the West Region with a total sale of N1.6m with 14.29%. Within the
 -  Television subscription section of the superstore the South Region has the highest sales revenue with a total of N37.6m which is 25.08% of the total revenue generated followed by West Region at N37.5m at 25.02%,  East and North at N37.4m at 24.96% a& 24.94% respectively the analysis also highlighted some of top selling products which contributes to the major revenue of the company and those at the bottom line, Therefore, the company should focus on marketing efforts and optimizing inventory in those regions to further increase sales.
 
-<img width="424" alt="image" src="https://github.com/user-attachments/assets/056c066e-ed74-4a57-81fe-e52196d3cd50">
-<img width="458" alt="image" src="https://github.com/user-attachments/assets/c65a4be8-e65c-429c-a71d-f8d675e4e34b">
+<img width="497" alt="image" src="https://github.com/user-attachments/assets/40257afd-bbf4-4ba1-a82c-01469d2959fc">
+<img width="499" alt="image" src="https://github.com/user-attachments/assets/41018503-648c-4cb2-b0c6-f06ef08031ed">
+
 
 ### Sales Trend Analysis
 ---
@@ -100,9 +102,10 @@ Total Subscription Count: 131,250
 -  On the other hand, the Clothing Section showcased some significant sales but had a notably lower sales margin when compared to the Subscription Section. Within the Clothing category, the Shoes displayed decent sales and increased revenue.
 -  Additionally, both Premium and Standard subscription type had lower sales turnover when compared to the Basic. These observations raise concerns, suggesting potential issues with the subscription duration and the pricing strategy, especially for the premium and standard categories.
 
-<img width="412" alt="image" src="https://github.com/user-attachments/assets/5f9fe740-34bb-47f3-a4ad-f311ccae165f">
+<img width="533" alt="image" src="https://github.com/user-attachments/assets/8aa177f8-d0ec-42d9-b516-9fea5a7786f4">
 
- <img width="499" alt="image" src="https://github.com/user-attachments/assets/29ba65ab-a8d7-4213-8ffe-0ef29e27eb29">
+<img width="550" alt="image" src="https://github.com/user-attachments/assets/de1caa43-c1d1-4771-ac44-a46a0a2e939b">
+
 
 ### Recommendations
 1.	Customer Drive: To boost satisfaction and sales, enhance the shopping experience for the clothing section the company should enhance brands are in line with the fashion trend and also offer personalized promotions, loyalty rewards, and targeted marketing to further increase their engagement and spending, driving overall growth.
