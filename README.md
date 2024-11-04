@@ -10,7 +10,6 @@ Payless-Superstore is a retail outlet based in Nigeria. The superstore specializ
 -  [PROJECT OVERVIEW](#project-overview)
 -  [DATASET](#dataset)
 -  [Tools Used](#tools-used)
--  [Data Cleaning & Preparation](#data-cleaning-&-preparation)
 -  [Data Collection](#data-collection)
 -  [Exploratory Data Analysis](#exploratory-data-analysis)
 -  [Data Analysis](#data-analysis)
