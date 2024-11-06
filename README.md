@@ -61,7 +61,24 @@ This is where we include some basic line codes or queries or even some of the DA
 
 ```SQL
 Select *From Table [dbo].[LITA Capstone Dataset SQL 2]
-where Condition = true
+```
+
+```SQL
+select product, sum(Quantity) as Total_sales
+from [dbo].[LITA Capstone Dataset SQL 2]
+group by product;
+```
+
+```SQL
+Select Region,count(*) as Total_Transactions
+from [dbo].[LITA Capstone Dataset SQL 2]
+group by region;
+```
+```SQL
+SELECT SubscriptionType, COUNT(DISTINCT CustomerID) AS TotalCustomers
+FROM [dbo].[LITA Capstone CustomerDate-SQL]
+GROUP BY SubscriptionType
+ORDER BY TotalCustomers DESC
 ```
 
 ### Business Questions:
